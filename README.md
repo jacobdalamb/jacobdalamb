@@ -15,14 +15,28 @@
 
 - ⚡ Fun fact **I love boba**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benji014628&layout=compact&hide=html" alt="benji014628" /></p>
+<pre>
+							<code>
+let Basic = ['Svelte', '<i class="fab fa-vuejs"></i>&nbsp;Vue', 'Typescript', 'Sapper', 'Deno', '<i class="fab fa-node-js"></i>&nbsp;Node.js', '<i aria-label="react-i" class="fab fa-react"></i>&nbsp;React', '<i aria-label="swift-i" class="fab fa-swift"></i>&nbsp;Swift'];
+let Intermediate = ['<i aria-label="js-i" class="fab fa-js-square"></i>&nbsp;Javascript'];
+const Advanced = ['<i aria-label="html-i" class="fab fa-html5"></i>&nbsp;HTML5', '<i aria-label="css-i" class="fab fa-css3"></i>&nbsp;CSS', 'TailwindCSS'];
+let VSCode = &#123;
+	Extensions: ['Visual Studio IntelliCode', 'Tailwind CSS Intellisense', 'Svelte for VS Code', 'Svelte Intellisense', 'Quokka.js', 'Path Intellisense', 'Live Server', 'Color Highlight', 'Bracket Pair Colorizer 2', 'Better Comments', 'Auto Rename Tag', 'Prettier', 'Git History', 'GitLens'],
+	Themes: ['untitled', 'Hydra Theme for VS-Code', '1984', 'Material Icon Theme'],
+&#125;;
+let <i class="fab fa-npm fa-lg"></i>&nbsp;Packages = ['CSSNano', 'npm-check-updates'];
+const Icons = ['<i class="fab fa-font-awesome"></i>&nbsp;FontAwesome'];
+const VCS = ['<i aria-label="github" class="fab fa-github"></i> GitHub', '<i aria-label="git" class="fab fa-git"></i>'];
+							</code>
+						</pre>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benji014628&show_icons=true" alt="benji014628" /></p>
 
-<p align="center"> 
-<a href="https://twitter.com/jakel725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jakel725" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/lambsbaaacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lambsbaaacode" height="30" width="30" /></a>
-<a href="https://fb.com/jacob.lamb.1460" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jacob.lamb.1460" height="30" width="30" /></a>
-<a href="https://instagram.com/jacob_lamb.jt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jacob_lamb.jt" height="30" width="30" /></a>
-<a href="https://medium.com/@jacobtlamb462" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jacobtlamb462" height="30" width="30" /></a>
-</p>
+<div align="center"> 
+<a aria-label="instagram-link" href="https://www.instagram.com/jacob_lamb.jt/" target="_blank" rel="noreferrer" class="icon"><i aria-label="instagram-i" class="fab fa-instagram-square fa-2x"></i></a>
+<a aria-label="facebook-link" href="https://www.facebook.com/jacob.lamb.1460/" target="_blank" rel="noreferrer" class="icon"><i aria-label="facebook-i" class="fab fa-facebook-square fa-2x"></i></a>
+<a aria-label="twitter-link" href="https://twitter.com/JakeL725" target="_blank" rel="noreferrer" class="icon"><i aria-label="twitter-i" class="fab fa-twitter-square fa-2x"></i></a>
+<a aria-label="hashnode-link" href="https://jacobsheep.hashnode.dev/" target="_blank" rel="noreferrer" class="icon">
+<a href="https://stackoverflow.com/users/lambsbaaacode" target="_blank" rel="noreferrer"><i class="fab fa-stack-overflow"></i></a>
+<a href="https://medium.com/@jacobtlamb462" target="_blank" rel="noreferrer"><i class="fab fa-medium"></i></a>
+</div>
