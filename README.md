@@ -40,3 +40,4 @@ const VCS = ['<i aria-label="github" class="fab fa-github"></i> GitHub', '<i ari
 <a href="https://stackoverflow.com/users/lambsbaaacode" target="_blank" rel="noreferrer"><i class="fab fa-stack-overflow"></i></a>
 <a href="https://medium.com/@jacobtlamb462" target="_blank" rel="noreferrer"><i class="fab fa-medium"></i></a>
 </div>
+<script src="https://kit.fontawesome.com/062ee3baff.js" crossorigin="anonymous"></script>
