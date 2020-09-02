@@ -38,6 +38,5 @@ const VCS = ['<i aria-label="github" class="fab fa-github"></i> GitHub', '<i ari
 <a aria-label="twitter-link" href="https://twitter.com/JakeL725" target="_blank" rel="noreferrer" class="icon"><i aria-label="twitter-i" class="fab fa-twitter-square fa-2x"></i></a>
 <a aria-label="hashnode-link" href="https://jacobsheep.hashnode.dev/" target="_blank" rel="noreferrer" class="icon">
 <a href="https://stackoverflow.com/users/lambsbaaacode" target="_blank" rel="noreferrer"><i class="fab fa-stack-overflow"></i></a>
-<a href="https://medium.com/@jacobtlamb462" target="_blank" rel="noreferrer"><i class="fab fa-medium"></i></a>
+<a href="https://medium.com/@jacobtlamb462" target="_blank" rel="noreferrer">&f23a;</a>
 </div>
-<script src="https://kit.fontawesome.com/062ee3baff.js" crossorigin="anonymous"></script>
