@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benji014628" alt="benji014628" /> </p>
 
-- 🌱 I’m currently learning **Javascript Frameworks**
+- 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
 
 - 👨‍💻 All of my projects are available at [https://jakelamb.me/](https://jakelamb.me/)
 
 - 📝 I regulary write articles on [https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)
 
-- 💬 Ask me about **Anything in frontend**
+- 💬 Ask me about **Anything in frontend development**
 
 - 📫 How to reach me **jacobtlamb462@gmail.com**
 
@@ -20,13 +20,13 @@
 let Basic = ['Svelte', 'Vue', 'Typescript', 'Sapper', 'Deno', 'Node.js', 'React', 'Swift'];
 let Intermediate = ['Javascript'];
 const Advanced = ['HTML5', 'CSS', 'TailwindCSS'];
-let VSCode = &#123;
-	Extensions: ['Visual Studio IntelliCode', 'Tailwind CSS Intellisense', 'Svelte for VS Code', 'Svelte Intellisense', 'Quokka.js', 'Path Intellisense', 'Live Server', 'Color Highlight', 'Bracket Pair Colorizer 2', 'Better Comments', 'Auto Rename Tag', 'Prettier', 'Git History', 'GitLens'],
+let VSCode = {
+	Extensions: ['Visual Studio IntelliCode', 'Tailwind CSS Intellisense', 'Svelte for VS Code', 'Svelte Intellisense', 'Quokka.js', 'Path Intellisense', 'Live Server', 'Color Highlight', 'Bracket Pair Colorizer 2', 'Better Comments', 'Auto Rename Tag', 'Prettier', 'Git History', 'GitLens', 'GitHub', 'git'],
 	Themes: ['untitled', 'Hydra Theme for VS-Code', '1984', 'Material Icon Theme'],
-&#125;;
-let npm Packages = ['CSSNano', 'npm-check-updates'];
+};
+let  Packages = ['CSSNano', 'npm-check-updates'];
 const Icons = ['FontAwesome'];
-const VCS = ['GitHub', 'git'];
+const Other = ['GitHub Desktop', 'GitHub CLI'];
 </code>
 </pre>
 
