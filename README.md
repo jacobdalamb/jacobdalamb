@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benji014628" alt="benji014628" /> </p>
-
 - 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
 
 - 👨‍💻 All of my projects are available at [https://jakelamb.me/](https://jakelamb.me/)
