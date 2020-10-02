@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jacobtlamb462@gmail.com**
 
-- ⚡ Fun fact - **I love boba**
+- ⚡ Fun fact: **I love boba**
 
 <pre>
 <code>
