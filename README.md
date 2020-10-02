@@ -7,11 +7,11 @@
 
 - 📝 I regulary write articles on [https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)
 
-- 💬 Ask me about **Anything in frontend development**
+- 💬 Ask me about anything in  **frontend development**
 
 - 📫 How to reach me **jacobtlamb462@gmail.com**
 
-- ⚡ Fun fact **I love boba**
+- ⚡ Fun fact - **I love boba**
 
 <pre>
 <code>
