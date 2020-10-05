@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-	- 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
+- 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
 
-	- 👨‍💻 All of my projects are available at [https://jakelamb.me/](https://jakelamb.me/)
+- 👨‍💻 All of my projects are available at [https://jakelamb.me/](https://jakelamb.me/)
 
-	- 📝 I regulary write articles on [https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)
+- 📝 I regulary write articles on [https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)
 
-	- 💬 Ask me about anything in  **frontend development**
+- 💬 Ask me about anything in  **frontend development**
 
-	- 📫 How to reach me **jacobtlamb462@gmail.com**
+- 📫 How to reach me **jacobtlamb462@gmail.com**
 
-	- ⚡ Fun fact: **I love boba**
+- ⚡ Fun fact: **I love boba**
 
 <pre>
 <code>
