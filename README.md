@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
 
-- 👨‍💻 All of my projects are available at [https://jakelamb.me/](https://jakelamb.me/)
+- 👨‍💻 All of my projects are available at **[https://jakelamb.me/](https://jakelamb.me/)**
 
-- 📝 I regulary write articles on [https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)
+- 📝 I regulary write articles on **[https://jacobsheep.hashnode.dev](https://jacobsheep.hashnode.dev)**
 
 - 💬 Ask me about anything in  **frontend development**
 
-- 📫 How to reach me **jacobtlamb462@gmail.com**
+- 📫 Reach me at **[jacobtlamb462@gmail.com](emailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
 
 - ⚡ Fun fact: **I love boba**
 
