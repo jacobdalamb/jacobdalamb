@@ -28,5 +28,5 @@ const Other = ['GitHub Desktop', 'GitHub CLI'];
 </code>
 </pre>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=benji014628&show_icons=true" alt="benji014628-stats" /></p>
-<p<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benji014628" alt="benji014628-top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=benji014628&show_icons=true" alt="benji014628-stats" /></p>
+<p<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benji014628" alt="benji014628-top-langs" /></p>
