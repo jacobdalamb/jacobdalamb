@@ -15,7 +15,7 @@
 
 <pre>
 <code>
-let Basic = ['Svelte', 'Vue', 'Typescript', 'Sapper', 'Deno', 'Node.js', 'React', 'Swift'];
+let Basic = ['Svelte', 'Vue', 'Typescript', 'Sapper', 'Deno', 'Node.js', 'React', 'Mobx', 'Swift', 'MongoDB', 'Express', 'PHP', 'Lavarel'];
 let Intermediate = ['Javascript'];
 const Advanced = ['HTML5', 'CSS', 'TailwindCSS'];
 let VSCode = {
