@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything in  **frontend development**
 
-- 📫 Reach me at **[jacobtlamb462@gmail.com](emailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
+- 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
 
 - ⚡ Fun fact: **I love boba**
 
