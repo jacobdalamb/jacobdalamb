@@ -15,9 +15,9 @@
 
 <pre>
 <code>
-let Basic = ['Svelte', 'Vue', 'Typescript', 'Sapper', 'Deno', 'Node.js', 'React', 'Mobx', 'Swift', 'MongoDB', 'Express', 'PHP', 'Lavarel'];
+let Basic = ['Svelte', 'Vue', 'Typescript', 'Sapper', 'Deno', 'React', 'Mobx', 'Swift', 'MongoDB', 'Express', 'PHP', 'Lavarel'];
 let Intermediate = ['Javascript'];
-const Advanced = ['HTML5', 'CSS', 'TailwindCSS'];
+const Advanced = ['HTML5', 'CSS', 'TailwindCSS', 'Node.js'];
 let VSCode = {
 	Extensions: ['Visual Studio IntelliCode', 'Tailwind CSS Intellisense', 'Svelte for VS Code', 'Svelte Intellisense', 'Quokka.js', 'Path Intellisense', 'Live Server', 'Color Highlight', 'Bracket Pair Colorizer 2', 'Better Comments', 'Auto Rename Tag', 'Prettier', 'Git History', 'GitLens', 'GitHub', 'git'],
 	Themes: ['untitled', 'Hydra Theme for VS-Code', '1984', 'Material Icon Theme'],
