@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-- 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper**
+- 🌱 I’m currently learning **Javascript Frameworks - Svelte/Sapper** && Node.js, MongoDB, Express
 
 - 👨‍💻 All of my projects are available at **[https://jakelamb.me/](https://jakelamb.me/)**
 
