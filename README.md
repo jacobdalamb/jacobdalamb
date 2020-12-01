@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Javascript Framework: Svelte**
 
-- 👨‍💻 All of my projects are available at **[https://jakelamb.me](https://jakelamb.me/)**
+- 👨‍💻 All of my projects are available at **[https://jakelamb.me](https://jakelamb.me)**
 
-- 📝 I regulary write articles on **[https://blog.jakelamb.me](https://blog.jakelamb.me/)**
+- 📝 I regulary write articles on **[https://blog.jakelamb.me](https://blog.jakelamb.me)**
 
 - 💬 Ask me about anything in  **Full-Stack Development**
 
