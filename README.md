@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on **[https://blog.jakelamb.me](https://blog.jakelamb.me)**
 
-- 💬 Ask me about anything in  **Full-Stack Development**
+- 💬 Ask me about anything in  **[Full-Stack Development](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
 - 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
 
