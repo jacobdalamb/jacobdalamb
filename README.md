@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
 <h3 align="center">An aspiring Full-Stack Developer & Blogger from California</h3>
 
-- 🌱 I’m currently learning **Javascript Framework: Svelte**
+- 🌱 I’m currently learning **Javascript Framework: [Svelte](https://github.com/sveltejs/svelte)**
 
 - 👨‍💻 All of my projects are available at **[https://jakelamb.me](https://jakelamb.me)**
 
 - 📝 I regulary write articles on **[https://blog.jakelamb.me](https://blog.jakelamb.me)**
 
-- 💬 Ask me about anything in  **[Full-Stack Development](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
+- 💬 Ask me about anything in **[Full-Stack Development](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
 - 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
 
