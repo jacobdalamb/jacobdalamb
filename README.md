@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
-<h3 align="center">A passionate aspiring Full-Stack Developer & Blogger from California</h3>
+<h3 align="center">An aspiring Full-Stack Developer & Blogger from California</h3>
 
 - 🌱 I’m currently learning **Javascript Framework: Svelte**
 
