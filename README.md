@@ -15,16 +15,11 @@
 
 <pre>
 <code>
-let Basic = ['Svelte', 'Vue', 'Typescript', 'Deno', 'React', 'Mobx', 'Swift', 'PHP', 'Lavarel'];
+let Basic = ['Svelte', 'Typescript', 'React', 'Swift', 'PHP'];
 let Intermediate = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
 const Advanced = ['HTML5', 'CSS', 'TailwindCSS'];
-let VSCode = {
-	Extensions: ['Visual Studio IntelliCode', 'Tailwind CSS Intellisense', 'Svelte for VS Code', 'Svelte Intellisense', 'Quokka.js', 'Path Intellisense', 'Live Server', 'Color Highlight', 'Bracket Pair Colorizer 2', 'Better Comments', 'Auto Rename Tag', 'Prettier', 'Git History', 'GitLens', 'GitHub', 'git'],
-	Themes: ['untitled', 'Hydra Theme for VS-Code', '1984', 'Material Icon Theme'],
-};
-let  Packages = ['CSSNano', 'npm-check-updates'];
 const Icons = ['FontAwesome'];
-const Other = ['GitHub Desktop', 'GitHub CLI'];
+const Other = ['npm', GitHub Desktop', 'GitHub CLI'];
 </code>
 </pre>
 
