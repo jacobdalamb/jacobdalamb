@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything at **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
-- 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[https://twitter.com/JakeL725](https://twitter.com/JakeL725)**
+- 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[twitter.com](https://twitter.com/JakeL725)**
 
 - ⚡ Fun fact: **I love boba**
 
