@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **[jakelamb.me](https://jakelamb.me)**
 
-- 📝 I regulary write articles on **[blog.jakelamb.me](https://blog.jakelamb.me)**
+- 📝 I regulary write articles at **[blog.jakelamb.me](https://blog.jakelamb.me)**
 
 - 💬 Ask me about anything at **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
