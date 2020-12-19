@@ -19,6 +19,6 @@ let Basic = ['Svelte', 'Typescript', 'React', 'Swift', 'PHP'];
 let Intermediate = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
 const Advanced = ['HTML', 'CSS', 'TailwindCSS'];
 const Icons = ['FontAwesome'];
-const Other = ['npm', GitHub Desktop', 'GitHub CLI'];
+const Apps = ['npm', 'GitHub Desktop', 'GitHub CLI'];
 </code>
 </pre>
