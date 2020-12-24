@@ -15,7 +15,7 @@
 
 <pre>
 <code>
-let Basic = ['Svelte', 'Typescript', 'React', 'Swift', 'PHP'];
+let Basic = ['Svelte', 'Typescript', 'React', 'Vue', 'Swift', 'PHP'];
 let Intermediate = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
 const Advanced = ['HTML', 'CSS', 'TailwindCSS'];
 const Icons = ['FontAwesome'];
