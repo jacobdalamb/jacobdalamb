@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
 <h3 align="center">An aspiring Full-Stack Developer & Blogger from California</h3>
 
-- 🌱 I’m currently learning **Javascript Framework: [Svelte](https://github.com/sveltejs/svelte)**
+- 🌱 I’m currently learning **Javascript Framework: [Vue](https://v3.vuejs.org)**
 
 - 👨‍💻 All of my projects are available at **[jakelamb.me](https://jakelamb.me)**
 
