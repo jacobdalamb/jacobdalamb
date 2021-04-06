@@ -4,7 +4,7 @@
 
 - 📝 Find my blogs at **[blog.jakelamb.me](https://blog.jakelamb.me)**
 
-- 💬 Ask me about anything at **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
+- 💬 Answering questions on **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
 <pre>
 <code>
