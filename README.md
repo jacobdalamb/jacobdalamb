@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jacob Lamb</h1>
-<h3 align="center">An aspiring Full-Stack Developer & Blogger from California</h3>
+<h1>👋 Hi, I'm Jacob</h1>
+<h3>An aspiring Full-Stack Developer & Blogger from California</h3>
 
 - 🌱 I’m currently learning **Javascript Framework: [Vue](https://v3.vuejs.org)**
 
@@ -9,9 +9,7 @@
 
 - 💬 Ask me about anything at **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
-- 📫 Reach me at **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)** || **[twitter.com](https://twitter.com/JakeL725)**
-
-- ⚡ Fun fact: **I love boba**
+- 📫 Reach me by email **[jacobtlamb462@gmail.com](mailto:jacobtlamb462@gmail.com)**
 
 <pre>
 <code>
