@@ -8,10 +8,10 @@
 
 <pre>
 <code>
-let Basic = ['Svelte', 'Typescript', 'React', 'Vue', 'Swift', 'PHP'];
-let Intermediate = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
-const Advanced = ['HTML', 'CSS', 'TailwindCSS'];
+let Frontend = ['HTML', 'CSS'];
+let Backend = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
+let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'React', 'Vue'];
 const Icons = ['FontAwesome'];
-const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI'];
+const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma'];
 </code>
 </pre>
