@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Jacob</h1>
 
-- 🌱 I’m currently taking lessons at **[teamtreehouse.com](https://teamtreehouse.com/jacoblamb4)**
+- 🌱 I’m currently taking classes at **[palomar.edu](https://www2.palomar.edu)**
 
 - 📝 Find my blogs at **[blog.jakelamb.me](https://blog.jakelamb.me)**
 
