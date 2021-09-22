@@ -8,10 +8,10 @@
 
 <pre>
 <code>
-let Frontend = ['HTML', 'CSS'];
-let Backend = ['Javascript', 'Node.js', 'MongoDB', 'Express'];
+let Frontend = ['HTML', 'CSS', 'Javascript'];
+let Backend = ['Node.js', 'MongoDB', 'Express'];
 let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'React', 'Vue'];
-const Icons = ['FontAwesome'];
-const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma'];
+let CompSci = ['C', 'Swift', 'PHP', 'Python'];
+const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma', 'FontAwesome'];
 </code>
 </pre>
