@@ -14,3 +14,7 @@ let CompSci = ['C', 'Swift'];
 const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma', 'FontAwesome'];
 </code>
 </pre>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobthesheep)](https://github.com/jacobthesheep/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobthesheep&layout=compact)](https://github.com/jacobthesheep/github-readme-stats)
