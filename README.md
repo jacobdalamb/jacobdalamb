@@ -8,10 +8,11 @@
 
 <pre>
 <code>
-let FullStack = ['HTML', 'CSS', 'Javascript', 'Node.js', 'Ruby', 'PHP', 'Python'];
+let Frontend = ['HTML', 'CSS', 'Javascript'];
+let Backend = ['Node.js', 'Ruby', 'PHP', 'Python']
 let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'React', 'Vue', 'Express'];
 let CompSci = ['C', 'Swift'];
-const Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma', 'FontAwesome'];
+let Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma', 'FontAwesome'];
 </code>
 </pre>
 
