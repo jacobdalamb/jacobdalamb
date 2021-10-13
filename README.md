@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently taking classes at **[palomar.edu](https://www2.palomar.edu)**
 
-- 📝 Find my blogs at **[blog.jacoblamb.me](https://blog.jakelamb.me)**
+- 📝 Find my blogs at **[blog.jacoblamb.me](https://blog.jacoblamb.me)**
 
 - 💬 Discussing various topics at **[stackoverflow.com](https://stackoverflow.com/users/12067372/lambsbaaacode?tab=profile)**
 
