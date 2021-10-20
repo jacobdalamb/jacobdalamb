@@ -12,7 +12,7 @@ let Frontend = ['HTML', 'CSS', 'Javascript'];
 let Backend = ['Node.js', 'Ruby', 'PHP', 'Python']
 let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'React', 'Vue', 'Express'];
 let CompSci = ['C', 'Swift'];
-let Apps = ['VSCode', 'npm', 'GitHub Desktop', 'GitHub CLI', 'Figma', 'FontAwesome'];
+let Apps = ['VSCode', 'GitHub Desktop', 'Figma'];
 </code>
 </pre>
 
