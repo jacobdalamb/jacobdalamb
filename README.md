@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Jacob</h1>
 
-- 🌱 I’m currently taking CompSci classes at **[palomar.edu](https://www2.palomar.edu)**
+- 🌱 I’m currently taking CompSci classes at **[palomar.edu](https://www2.palomar.edu)** & lessons at **[freecodecamp.org](https://www.freecodecamp.org/jacobthelamb)**
 
 - 📝 Find my blogs at **[blog.jacoblamb.me](https://blog.jacoblamb.me)**
 
