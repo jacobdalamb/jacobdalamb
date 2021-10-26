@@ -9,8 +9,8 @@
 <pre>
 <code>
 let Frontend = ['HTML', 'CSS', 'Javascript'];
-let Backend = ['Node.js', 'Ruby', 'PHP', 'Python']
-let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'React', 'Vue', 'Express'];
+let Backend = ['Node.js', 'PHP', 'Python']
+let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'Express'];
 let CompSci = ['C', 'Swift'];
 let Apps = ['VSCode', 'GitHub Desktop', 'Figma'];
 </code>
