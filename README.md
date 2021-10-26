@@ -9,7 +9,7 @@
 <pre>
 <code>
 let Frontend = ['HTML', 'CSS', 'Javascript'];
-let Backend = ['Node.js', 'PHP', 'Python']
+let Backend = ['Node.js', 'Python']
 let Frameworks = ['TailwindCSS', 'Svelte', 'Typescript', 'Express'];
 let CompSci = ['C', 'Swift'];
 let Apps = ['VSCode', 'GitHub Desktop', 'Figma'];
