@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Jacob</h1>
+<h1>Hi, I'm Jacob</h1>
 
 <p>You've found my readme.</p>
 
