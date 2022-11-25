@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jacob</h1>
+# Hi, I'm Jacob
 
-<p>You've found my readme.</p>
+You've found my readme.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobthesheep&theme=onedark)
 
