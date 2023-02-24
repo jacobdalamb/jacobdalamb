@@ -11,6 +11,7 @@ You've found my readme.
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
 - Terminal
+  - [Tabby](https://tabby.sh/) 
   - [Hyper](https://hyper.is/)
   - [Fig](https://fig.io/)
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
