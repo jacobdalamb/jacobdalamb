@@ -4,17 +4,10 @@ You've found my readme.
 
 ## Productivity Apps
 
-- Browsers
-  - [Arc](https://arc.net/)
-  - [Google Chrome](https://www.google.com/)
-  - [Google Chrome Canary](https://www.google.com/chrome/canary/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/)
-- Terminal
-  - [Tabby](https://tabby.sh/) 
-  - [Hyper](https://hyper.is/)
-  - [Fig](https://fig.io/)
-- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+- [Arc](https://arc.net/)
+- [Tabby](https://tabby.sh/) 
+- [Fig](https://fig.io/)
+- [Zed](https://zed.dev/)
 - [Velja](https://sindresorhus.com/velja)
 - [GitHub Desktop](https://desktop.github.com/)
 - [PixelSnap 2](https://getpixelsnap.com/)
