@@ -7,7 +7,7 @@ You've found my readme.
 - [Arc](https://arc.net/)
 - [Tabby](https://tabby.sh/) 
 - [Fig](https://fig.io/)
-- [Zed](https://zed.dev/)
+- [VS Code](https://code.visualstudio.com/)
 - [Velja](https://sindresorhus.com/velja)
 - [GitHub Desktop](https://desktop.github.com/)
 - [PixelSnap 2](https://getpixelsnap.com/)
@@ -15,7 +15,6 @@ You've found my readme.
 - [Balance](https://alexandersandberg.com/apps/balance/)
 - [Raycast](https://www.raycast.com/)
 - [Figma](https://www.figma.com/) 
-
 
 ## Newsletters
 
