@@ -14,7 +14,8 @@ You've found my readme.
 - [CleanShot X](https://cleanshot.com/)
 - [Balance](https://alexandersandberg.com/apps/balance/)
 - [Raycast](https://www.raycast.com/)
-- [Figma](https://www.figma.com/) 
+- [Figma](https://www.figma.com/)
+- [QuickGPT](https://sindresorhus.com/quickgpt)
 
 ## Newsletters
 
