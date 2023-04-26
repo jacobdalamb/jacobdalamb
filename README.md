@@ -16,6 +16,7 @@ You've found my readme.
 - [Raycast](https://www.raycast.com/)
 - [Figma](https://www.figma.com/)
 - [QuickGPT](https://sindresorhus.com/quickgpt)
+- [Caddy](https://caddyserver.com/)
 
 ## Newsletters
 
