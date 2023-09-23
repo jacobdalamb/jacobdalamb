@@ -3,7 +3,7 @@
 - 👨 I'm a front-end engineer.
 - 👨‍💻 Use VSCode (hope to switch to [Zed](https://zed.dev/)).
 
-  [![@jacobthesheep Astro contributions](https://astro.badg.es/v1/contributor/jacobthesheep.svg)](https://astro.badg.es/v1/contributor/jacobthesheep/)
+[![@jacobthesheep Astro contributions](https://astro.badg.es/v2/contributor/jacobthesheep.svg)](https://astro.badg.es/contributor/jacobthesheep/)
 
 ### My Skills
 
