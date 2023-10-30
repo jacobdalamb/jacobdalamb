@@ -2,7 +2,7 @@
 
 A FrontEnd Engineer.
 
-## On My Machines
+## On My Machine
 
 - [Brew Packages](https://gist.github.com/jacobthesheep/c78ec2de742a2044eb37e196e26d6152)
 - [Pnpm Packages](https://gist.github.com/jacobthesheep/6d5a496e5b38373d7c37f5098b78ac0a)
