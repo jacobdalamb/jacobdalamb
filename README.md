@@ -4,9 +4,10 @@ A FrontEnd Engineer.
 
 ## On My Machine
 
-- [Brew Packages](https://gist.github.com/jacobthesheep/c78ec2de742a2044eb37e196e26d6152)
-- [Pnpm Packages](https://gist.github.com/jacobthesheep/6d5a496e5b38373d7c37f5098b78ac0a)
-- [Installed Apps](https://gist.github.com/jacobthesheep/57a442c95e868894e657202d2feb2a8f)
+- [brew pkgs](https://gist.github.com/jacobthesheep/c78ec2de742a2044eb37e196e26d6152)
+- [pnpm pkgs](https://gist.github.com/jacobthesheep/6d5a496e5b38373d7c37f5098b78ac0a)
+- [bun pkgs](https://gist.github.com/jacobthesheep/501c9c7fa029801e72d2328c06280d18)
+- [apps](https://gist.github.com/jacobthesheep/57a442c95e868894e657202d2feb2a8f)
 
 ## [Astro](https://astro.build/) Stats
 
