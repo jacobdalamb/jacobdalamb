@@ -16,7 +16,7 @@ A FrontEnd Engineer.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdalambp&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdalamb&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdalamb&layout=compact&theme=onedark)
 
