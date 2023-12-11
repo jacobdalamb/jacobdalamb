@@ -4,21 +4,21 @@ A FrontEnd Engineer.
 
 ## On My Machine
 
-- [brew pkgs](https://gist.github.com/jacobthesheep/c78ec2de742a2044eb37e196e26d6152)
-- [pnpm pkgs](https://gist.github.com/jacobthesheep/6d5a496e5b38373d7c37f5098b78ac0a)
-- [bun pkgs](https://gist.github.com/jacobthesheep/501c9c7fa029801e72d2328c06280d18)
-- [apps](https://gist.github.com/jacobthesheep/57a442c95e868894e657202d2feb2a8f)
+- [brew pkgs](https://gist.github.com/jacobdalamb/c78ec2de742a2044eb37e196e26d6152)
+- [pnpm pkgs](https://gist.github.com/jacobdalamb/6d5a496e5b38373d7c37f5098b78ac0a)
+- [bun pkgs](https://gist.github.com/jacobdalamb/501c9c7fa029801e72d2328c06280d18)
+- [apps](https://gist.github.com/jacobdalamb/57a442c95e868894e657202d2feb2a8f)
 - nifty local pkgs: [knip](https://knip.dev/) and [taze](https://github.com/antfu/taze)
 
 ## [Astro](https://astro.build/) Stats
 
-[![@jacobthesheep Astro contributions](https://astro.badg.es/v2/contributor/jacobthesheep.svg)](https://astro.badg.es/contributor/jacobthesheep/)
+[![@jacobdalamb Astro contributions](https://astro.badg.es/v2/contributor/jacobdalamb.svg)](https://astro.badg.es/contributor/jacobdalamb/)
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobthesheep&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdalambp&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobthesheep&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdalamb&layout=compact&theme=onedark)
 
 ## My Skills
 
