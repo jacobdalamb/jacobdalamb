@@ -22,10 +22,10 @@ A FrontEnd Engineer.
 ## My Skills
 
 <a href="https://sayhub.me#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php&theme=light" />
 </a>
 <a href="https://sayhub.me#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php&theme=dark" />
 </a>
 
 ### Skill to learn
