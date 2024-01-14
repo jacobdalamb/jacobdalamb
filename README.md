@@ -21,28 +21,18 @@ A FrontEnd Engineer.
 
 ## My Skills
 
-<div>
-  <a href="https://es.wikipedia.org/wiki/HTML5"><img src="https://svgl.app/library/html5.svg" alt="html5-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://es.wikipedia.org/wiki/CSS"><img src="https://svgl.app/library/css.svg" alt="css-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://svgl.app/library/javascript.svg" alt="js-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://svgl.app/library/typescript.svg" alt="ts-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://www.rust-lang.org/"><img src="https://svgl.app/library/rust.svg" alt="rust-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://svgl.app/library/c.svg" alt="c-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://nodejs.org/"><img src="https://svgl.app/library/nodejs.svg" alt="nodejs-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://vercel.com/"><img src="https://svgl.app/library/vercel.svg" alt="vercel-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://astro.build/"><img src="https://svgl.app/library/astro.svg" alt="astro-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://svelte.dev/"><img src="https://svgl.app/library/svelte.svg" alt="svelte-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://git-scm.com/"><img src="https://svgl.app/library/git.svg" alt="git-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://www.markdownguide.org/"><img src="https://svgl.app/library/markdown.svg" alt="markdown-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://expressjs.com/"><img src="https://svgl.app/library/expressjs.svg" alt="expressjs-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://github.com/"><img src="https://svgl.app/library/github.svg" alt="github-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://tailwindcss.com/"><img src="https://svgl.app/library/tailwindcss.svg" alt="tailwindcss-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://svgl.app/library/vscode.svg" alt="vscode-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://www.python.org/"><img src="https://svgl.app/library/python.svg" alt="python-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://swift.org/"><img src="https://svgl.app/library/swift.svg" alt="swift-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://svgl.app/library/bash.svg" alt="bash-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://bun.sh/"><img src="https://svgl.app/library/bun.svg" alt="bun-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://zod.dev/"><img src="https://svgl.app/library/zod.svg" alt="zod-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://openai.com/"><img src="https://svgl.app/library/openai.svg" alt="openai-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-  <a href="https://github.com/features/copilot"><img src="https://svgl.app/library/copilot.svg" alt="/copilot-icon" width="20" height="50" loading="lazy" decoding="async"></a>
-</div>
+<a href="https://sayhub.me#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift&theme=light" />
+</a>
+<a href="https://sayhub.me#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift&theme=dark" />
+</a>
+
+### Skill to learn
+
+<a href="https://sayhub.me#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=go,zig,haskell,hono&theme=light" />
+</a>
+<a href="https://sayhub.me#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=go,zig,haskell,hono&theme=dark" />
+</a>
