@@ -28,7 +28,7 @@ A FrontEnd Engineer.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php&theme=dark" />
 </a>
 
-### Skill to learn
+### Skills to learn
 
 <a href="https://sayhub.me#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=go,zig,haskell,hono&theme=light" />
