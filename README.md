@@ -2,7 +2,7 @@
 
 A FrontEnd Engineer.
 
-## On My Machine
+## Global Packages & Apps On My Machine
 
 - [brew pkgs](https://gist.github.com/jacobdalamb/c78ec2de742a2044eb37e196e26d6152)
 - [pnpm pkgs](https://gist.github.com/jacobdalamb/6d5a496e5b38373d7c37f5098b78ac0a)
