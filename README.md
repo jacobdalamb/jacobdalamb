@@ -9,7 +9,7 @@ A FrontEnd Engineer.
 - [bun pkgs](https://gist.github.com/jacobdalamb/501c9c7fa029801e72d2328c06280d18)
 - [apps](https://gist.github.com/jacobdalamb/57a442c95e868894e657202d2feb2a8f)
 
-## My [Astro](https://astro.build/) Contributions
+## My [Astro](https://astro.build/) Contribution Achievements
 
 [![@jacobdalamb Astro contributions](https://astro.badg.es/v2/contributor/jacobdalamb.svg)](https://astro.badg.es/contributor/jacobdalamb/)
 
