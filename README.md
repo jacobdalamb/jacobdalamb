@@ -1,6 +1,18 @@
 # Hi, I'm Jacob
 
-A FrontEnd Engineer.
+A FrontEnd Engineer
+
+My favorite tools, apps, and services: 
+- [Astro](https://astro.build/)
+- [Zed](https://astro.build/)
+- [TablePlus](https://tableplus.com/)
+- [Warp](https://www.warp.dev/)
+- [Nushell](https://www.nushell.sh/)
+- [Vercel](https://vercel.com/)
+- [Supermaven](https://supermaven.com/)
+- [Perplexity](https://www.perplexity.ai/)
+- [Claude](https://claude.ai/)
+- [Arc](https://arc.net/)
 
 ## Global Packages & Apps On My Machine
 
