@@ -39,12 +39,3 @@ My favorite tools, apps, and services:
 <a href="https://sayhub.me#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php,jquery&theme=dark" />
 </a>
-
-### Skills to learn
-
-<a href="https://sayhub.me#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=go,zig,haskell,hono&theme=light" />
-</a>
-<a href="https://sayhub.me#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=go,zig,haskell,hono&theme=dark" />
-</a>
