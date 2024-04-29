@@ -2,7 +2,11 @@
 
 A FrontEnd Engineer
 
-My favorite tools, apps, and services: 
+## Tiny Projects
+
+- [Astro Link component](https://gist.github.com/jacobdalamb/6951a5bc07c9937f2f3991614b3685bc)
+
+## My favorite tools, apps, and services: 
 - [Astro](https://astro.build/)
 - [Zed](https://astro.build/)
 - [TablePlus](https://tableplus.com/)
