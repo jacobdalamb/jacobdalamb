@@ -14,7 +14,7 @@ A FrontEnd Engineer
 - [Nushell](https://www.nushell.sh/)
 - [Vercel](https://vercel.com/)
 - [Supermaven](https://supermaven.com/)
-- [Perplexity](https://www.perplexity.ai/)
+- [ChatGPT](chatgpt.com)
 - [Claude](https://claude.ai/)
 - [Arc](https://arc.net/)
 
