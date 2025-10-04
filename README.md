@@ -2,21 +2,14 @@
 
 A FrontEnd Engineer
 
-## Tiny Projects
-
-- [Astro Link component](https://gist.github.com/jacobdalamb/6951a5bc07c9937f2f3991614b3685bc)
-
 ## My favorite tools, apps, and services: 
 - [Astro](https://astro.build/)
 - [Zed](https://astro.build/)
 - [TablePlus](https://tableplus.com/)
-- [Warp](https://www.warp.dev/)
 - [Nushell](https://www.nushell.sh/)
 - [Vercel](https://vercel.com/)
 - [Supermaven](https://supermaven.com/)
-- [ChatGPT](https://chatgpt.com)
-- [Claude](https://claude.ai/)
-- [Arc](https://arc.net/)
+- [Grok](https://grok.com)
 
 ## Global Packages & Apps On My Machine
 
