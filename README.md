@@ -2,37 +2,44 @@
 
 A FrontEnd Engineer
 
-## My favorite tools, apps, and services: 
-- [Astro](https://astro.build/)
-- [Zed](https://astro.build/)
-- [TablePlus](https://tableplus.com/)
-- [Nushell](https://www.nushell.sh/)
-- [Vercel](https://vercel.com/)
-- [Supermaven](https://supermaven.com/)
-- [Grok](https://grok.com)
-
-## Global Packages & Apps On My Machine
-
-- [brew pkgs](https://gist.github.com/jacobdalamb/c78ec2de742a2044eb37e196e26d6152)
-- [pnpm pkgs](https://gist.github.com/jacobdalamb/6d5a496e5b38373d7c37f5098b78ac0a)
-- [bun pkgs](https://gist.github.com/jacobdalamb/501c9c7fa029801e72d2328c06280d18)
-- [apps](https://gist.github.com/jacobdalamb/57a442c95e868894e657202d2feb2a8f)
-
 ## My [Astro](https://astro.build/) Contribution Achievements
 
 [![@jacobdalamb Astro contributions](https://astro.badg.es/v2/contributor/jacobdalamb.svg)](https://astro.badg.es/contributor/jacobdalamb/)
 
 ## My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdalamb&theme=onedark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jacobdalamb&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jacobdalamb&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobdalamb&show_icons=true" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdalamb&layout=compact&theme=onedark)
+</br>
 
-## My Skills
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdalamb&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdalamb&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobdalamb&show_icons=true" />
+</picture>
 
-<a href="https://sayhub.me#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php,jquery&theme=light" />
-</a>
-<a href="https://sayhub.me#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,nodejs,astro,svelte,express,tailwind,git,md,vscode,github,vercel,python,bun,swift,php,jquery&theme=dark" />
-</a>
+## Gist
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=57a442c95e868894e657202d2feb2a8f)](https://gist.github.com/jacobdalamb/57a442c95e868894e657202d2feb2a8f)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c78ec2de742a2044eb37e196e26d6152)](https://gist.github.com/jacobdalamb/c78ec2de742a2044eb37e196e26d6152)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=19e9638825270a62aa343b516ee15bb5)](https://gist.github.com/jacobdalamb/19e9638825270a62aa343b516ee15bb5)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fb86121db4c731e0e4868483a68a6eee)](https://gist.github.com/jacobdalamb/fb86121db4c731e0e4868483a68a6eee)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=24f8b9de66c5b3e8dba17381e2b78739)](https://gist.github.com/jacobdalamb/24f8b9de66c5b3e8dba17381e2b78739)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7bd6be2c3e55bcece688c13cae486c85)](https://gist.github.com/jacobdalamb/7bd6be2c3e55bcece688c13cae486c85)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ccac1a73342f8b057efa9281e881370c)](https://gist.github.com/jacobdalamb/ccac1a73342f8b057efa9281e881370c)
