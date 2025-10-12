@@ -34,12 +34,89 @@ A FrontEnd Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobdalamb&show_icons=true" />
 </picture>
 
-## Gist
+## Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=57a442c95e868894e657202d2feb2a8f)](https://gist.github.com/jacobdalamb/57a442c95e868894e657202d2feb2a8f)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c78ec2de742a2044eb37e196e26d6152)](https://gist.github.com/jacobdalamb/c78ec2de742a2044eb37e196e26d6152)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=19e9638825270a62aa343b516ee15bb5)](https://gist.github.com/jacobdalamb/19e9638825270a62aa343b516ee15bb5)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fb86121db4c731e0e4868483a68a6eee)](https://gist.github.com/jacobdalamb/fb86121db4c731e0e4868483a68a6eee)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=24f8b9de66c5b3e8dba17381e2b78739)](https://gist.github.com/jacobdalamb/24f8b9de66c5b3e8dba17381e2b78739)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7bd6be2c3e55bcece688c13cae486c85)](https://gist.github.com/jacobdalamb/7bd6be2c3e55bcece688c13cae486c85)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ccac1a73342f8b057efa9281e881370c)](https://gist.github.com/jacobdalamb/ccac1a73342f8b057efa9281e881370c)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=57a442c95e868894e657202d2feb2a8f&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=57a442c95e868894e657202d2feb2a8f&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=57a442c95e868894e657202d2feb2a8f" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=c78ec2de742a2044eb37e196e26d6152&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=c78ec2de742a2044eb37e196e26d6152&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=c78ec2de742a2044eb37e196e26d6152" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=19e9638825270a62aa343b516ee15bb5&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=19e9638825270a62aa343b516ee15bb5&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=19e9638825270a62aa343b516ee15bb5" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=fb86121db4c731e0e4868483a68a6eee&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=fb86121db4c731e0e4868483a68a6eee&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=fb86121db4c731e0e4868483a68a6eee" />
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=24f8b9de66c5b3e8dba17381e2b78739&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=24f8b9de66c5b3e8dba17381e2b78739&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=24f8b9de66c5b3e8dba17381e2b78739" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=7bd6be2c3e55bcece688c13cae486c85&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=7bd6be2c3e55bcece688c13cae486c85&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=7bd6be2c3e55bcece688c13cae486c85" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=ccac1a73342f8b057efa9281e881370c&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/gist?id=ccac1a73342f8b057efa9281e881370c&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=ccac1a73342f8b057efa9281e881370c" />
+</picture>
