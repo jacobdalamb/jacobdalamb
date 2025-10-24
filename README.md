@@ -2,6 +2,12 @@
 
 A FrontEnd Engineer
 
+## Tools
+
+- IDE: [Zed](https://zed.dev/)
+- Terminal: Terminal.app
+- CLI AI Agent: [Octomind](https://octomind.muvon.io/)
+
 ## My Contribution Achievements
 
 ### [Astro](https://astro.build/) 
