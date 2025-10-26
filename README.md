@@ -6,7 +6,7 @@ A FrontEnd Engineer
 
 - IDE: [Zed](https://zed.dev/)
 - Terminal: Terminal.app
-- CLI AI Agent: [Octomind](https://octomind.muvon.io/)
+- Dotfiles: https://github.com/jacobdalamb/dotfiles
 
 ## My Contribution Achievements
 
