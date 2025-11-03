@@ -2,12 +2,6 @@
 
 A FrontEnd Engineer
 
-## Tools
-
-- IDE: [Zed](https://zed.dev/)
-- Terminal: Terminal.app
-- Dotfiles: https://github.com/jacobdalamb/dotfiles
-
 ## My Contribution Achievements
 
 ### [Astro](https://astro.build/) 
